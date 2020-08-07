@@ -1,0 +1,9 @@
+.hide {
+    display: none;
+}
+
+.timer {
+    position: fixed;
+    top: 60px;
+    right: 15px;
+}
